@@ -1,0 +1,4 @@
+Bundle-Description: Override Portal Core Language Keys
+Bundle-SymbolicName: de.flussbad_berlin.lang.resource.bundle.override
+Bundle-Version: 1.0.0
+-sources: true
